@@ -20,4 +20,4 @@ Author: Jay Amin
 
 release-0.6: Added unit testing!
 
-####Please contact support for previous release notes.
+####Please check the website for previous release notes.
